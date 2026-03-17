@@ -1,3 +1,15 @@
+Disclaimer
+==========
+
+( ˶°ㅁ°) !! **This is a fork of [Design-System-Cookbooks/design-systems](https://github.com/Design-System-Cookbooks/design-systems)**
+
+The aim of this project is to submit evolutions.
+This is not the official repository of the project.
+You should not submit bug reports, issues or pull requests to this fork.
+
+Last constributions from here:
+- Update design system of Orange ([#14](https://github.com/Design-System-Cookbooks/design-systems/pull/14))
+
 <h1 align="center">Design System Cookbooks 📚 </h1>
 
 <picture>
